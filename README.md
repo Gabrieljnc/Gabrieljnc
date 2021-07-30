@@ -1,4 +1,17 @@
 ### Hi there 👋
+👋🏻 Hi, my name is Gabriel Jesus
+
+🎓 I’m in 5th semester of the bachelor's degree in Artificial Intelligence and Data Science.
+
+🏠 Brasília Native, with a passion for Techonology, Data, Business and Entrepreneurship.
+
+🎯 My biggest goal is solve problems through Data Science and impact the youth community by creating educational projects.
+
+💻 As for my future, I hope to one day work for a internacional company, work with a diverse team and developing several projects, impacting the company by bringing innovative solutions.
+
+⛳️ In my free time I like to study about technology, travel to other countries, practice sports, watch soccer, play games, read books and talk with my friends.
+
+💪🏻 Business, Technology, Innovation, Creativity, Team Work, Planning, Research...
 <div>
   <a href="https://github.com/Gabrieljnc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrieljnc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
