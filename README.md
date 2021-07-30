@@ -14,12 +14,10 @@
   ##
   
 <div>
-  <a href="https://www.linkedin.com/in/gabrieljnc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>
-  
-  <a href="https://open.spotify.com/user/o52ws05gzlvd9p9y8k2z3pytr" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabrieljnc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>
+<a href="https://open.spotify.com/user/o52ws05gzlvd9p9y8k2z3pytr" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>  
   
- ![Snake animation](https://github.com/Gabrieljnc/Gabrieljnc/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   
