@@ -22,7 +22,7 @@
   <img align="center" alt="Gzus-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gzus-py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Gzus-py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="RockLee"  height="120" width="200" src="https://media.giphy.com/media/Hld1RfHBeQDmM/giphy.gif"> 
+  <img align="right" alt="RockLee"  height="110" width="200" src="https://media.giphy.com/media/Hld1RfHBeQDmM/giphy.gif"> 
 </div>
   
   ##
