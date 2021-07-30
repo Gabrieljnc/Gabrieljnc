@@ -1,5 +1,6 @@
-### Hi there 👋
-👋🏻 Hi, my name is Gabriel Jesus
+### Hi there 
+
+👋🏻 My name is Gabriel Jesus
 
 🎓 I’m in 5th semester of the bachelor's degree in Artificial Intelligence and Data Science.
 
