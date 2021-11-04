@@ -1,6 +1,6 @@
 ### Hello World!
 
-👋🏻 My name is Gabriel Jesus
+👋🏻 My name is Gabriel Jesus and I'm from Brazil !
 
 🎓 I’m in 5th semester of the bachelor's degree in Artificial Intelligence and Data Science.
 
