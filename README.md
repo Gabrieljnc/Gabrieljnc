@@ -2,7 +2,7 @@
 
 👋🏻 My name is Gabriel Jesus and I'm from Brazil !
 
-🎓 I’m in 5th semester of the bachelor's degree in Artificial Intelligence and Data Science.
+🎓 I’m in 6th semester of the bachelor's degree in Artificial Intelligence and Data Science.
 
 🏠 Brasília Native, with a passion for Techonology, Data Science, Business and Entrepreneurship.
 
