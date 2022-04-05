@@ -14,7 +14,6 @@
 - 📊 Data Visualization Tools: Power BI and SAS.
 - 📚 Knowledges: Data Analytics ,Business Intelligence, Math and Statistic, ML, Big Data, Design Thinking.
 
-⚠️ Searching for international Internships or Summer job
 
 <div>
   <a href="https://github.com/Gabrieljnc">
