@@ -10,8 +10,8 @@
 
 📌 Main skills:
 
-- 💻 Programming: Python, SAS.
-- 📊 Data Visualization Tools: Power BI and SAS.
+- 💻 Programming: Python, SQL, SAS.
+- 📊 Data Visualization Tools: Power BI, Tableau and SAS Visual Analytics.
 - 📚 Knowledges: Data Analytics ,Business Intelligence, Math and Statistic, ML, Big Data, Design Thinking.
 
 
