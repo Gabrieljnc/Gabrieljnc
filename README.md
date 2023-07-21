@@ -2,17 +2,17 @@
 
 👋🏻 My name is Gabriel Jesus and I'm from Brazil !
 
-🎓 I’m in 6th semester of the bachelor's degree in Artificial Intelligence and Data Science.
+🎓 Bachelor's degree in Artificial Intelligence and Data Science for University Center IESB.
 
 🏠 Brasília Native, with a passion for Techonology, Data Science, Business and Entrepreneurship.
 
-🎯 My main goal is solve problems using Data Science, impact companies and communities creating and analysing projects and bring innovative solutions, work with a diverse team, learn new technologies.
+🎯 My main goal is solve problems using Data Science, impact companies and communities creating and analysing projects and bring innovative solutions.
 
 📌 Main skills:
 
 - 💻 Programming: Python, SQL, SAS.
 - 📊 Data Visualization Tools: Power BI, Tableau and SAS Visual Analytics.
-- 📚 Knowledges: Data Analytics ,Business Intelligence, Math and Statistic, ML, Big Data, Design Thinking.
+- 📚 Knowledges: Data Analytics ,Business Intelligence, Math and Statistic, Machine Learning, Big Data, NLP, Temporal Series.
 
 
 <div>
