@@ -2,7 +2,7 @@
 
 👋🏻 My name is Gabriel Jesus and I'm from Brazil !
 
-🎓 Bachelor's degree in Artificial Intelligence and Data Science for University Center IESB.
+🎓 Bachelor's degree in Artificial Intelligence and Data Science for University Center IESB.\n
 🎓 Postgraduate degree in Artificial Intelligence from PUC Minas
 
 🏠 Brasília Native, with a passion for Techonology, Data Science, Business and Entrepreneurship.
