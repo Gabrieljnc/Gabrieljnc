@@ -3,6 +3,7 @@
 👋🏻 My name is Gabriel Jesus and I'm from Brazil !
 
 🎓 Bachelor's degree in Artificial Intelligence and Data Science for University Center IESB.
+🎓 Postgraduate degree in Artificial Intelligence from PUC Minas
 
 🏠 Brasília Native, with a passion for Techonology, Data Science, Business and Entrepreneurship.
 
@@ -10,9 +11,9 @@
 
 📌 Main skills:
 
-- 💻 Programming: Python, SQL, SAS.
+- 💻 Programming: Python, SQL, SAS, Databricks, R.
 - 📊 Data Visualization Tools: Power BI, Tableau and SAS Visual Analytics.
-- 📚 Knowledges: Data Analytics ,Business Intelligence, Math and Statistic, Machine Learning, Big Data, NLP, Temporal Series.
+- 📚 Knowledges: Data Analytics ,Business Intelligence, Math and Statistic, Machine Learning, Big Data, NLP, Temporal Series, Fraud Prevention.
 
 
 <div>
